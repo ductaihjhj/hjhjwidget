@@ -3012,7 +3012,7 @@ if (ua.includes("Locket")) {
               background: { colors: ["#B8A1D9", "#D8C6E8", "#A9B8E8"] },
               icon: { data: "🌌", type: "emoji" },
               max_lines: 1,
-              text: "nhìn bầu trời màu dạ lý hương",
+              text: "Nhìn bầu trời màu dạ lý hương",
               text_color: "#FFFFFF",
               type: "static_content",
             },
