@@ -2963,7 +2963,7 @@ if (ua.includes("Locket")) {
               text: "Happy Graduation Day!",
               localized_text: {
                 en: "Happy Graduation Day!",
-                vn: "Chúc mừng tốt nghiệp!",
+                vn: "Chúc mừng tốt nghiệp.",
               },
               text_color: "#FFFFFFE6",
               type: "static_content",
